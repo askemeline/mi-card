@@ -1,3 +1,5 @@
 # Mi Card
 
-App challange from Flutter course
+App challenge with AppBrewery Flutter course.
+
+![GitHub Logo](https://i.imgur.com/PqzHu1B.png)
